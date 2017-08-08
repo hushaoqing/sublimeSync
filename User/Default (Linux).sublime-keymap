@@ -1,0 +1,14 @@
+[
+  {
+    "keys": [
+      "ctrl+alt+r"
+    ],
+    "command": "http_requester"
+  },
+  {
+    "keys": [
+      "ctrl+q"
+    ],
+    "command": "translate"
+  }
+]

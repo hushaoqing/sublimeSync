@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+# !usr/bin/python
+# coding=utf-8
+
+import re
+import os
+import sys
+import time
+import json
+import requests
+reload(sys)
+sys.setdefaultencoding('utf-8')
+from bs4 import BeautifulSoup
+
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>imp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.python</scope>
+	<description>My Python Snippet</description>
+</snippet>
